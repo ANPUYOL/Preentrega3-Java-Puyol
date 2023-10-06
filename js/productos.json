@@ -1,0 +1,132 @@
+[
+    {
+        "id": "prochin-Timothy",
+        "titulo": "Prochin Timothy Hay",
+        "imagen": "*",
+        "categoria": {
+            "nombre": "Prochin",
+            "id": "Prochin"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "Prochin-Hands",
+        "titulo": "Prochin Hands",
+        "imagen": "*",
+        "categoria": {
+            "nombre": "Prochin",
+            "id": "Prochin"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Prochin-Nacional",
+        "titulo": "Prochin Nacional",
+        "imagen": "*",
+        "categoria": {
+            "nombre": "Prochin",
+            "id": "Prochin"
+        },
+        "precio": 700
+    },
+    {
+        "id": "Prochin-Cobys",
+        "titulo": "Prochin Cobys",
+        "imagen": "*",
+        "categoria": {
+            "nombre": "Prochin",
+            "id": "Prochin"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "Prochin-Balance",
+        "titulo": "Prochin Balance",
+        "imagen": "*",
+        "categoria": {
+            "nombre": "Prochin",
+            "id": "Prochin"
+        },
+        "precio": 6200
+    },
+    {
+        "id": "Heno-Timithy",
+        "titulo": "Heno Timothy Hay",
+        "imagen": "*",
+        "categoria": {
+            "nombre": "Heno",
+            "id": "Heno"
+        },
+        "precio": 14000
+    },
+    {
+        "id": "Heno-Hands",
+        "titulo": "Heno Hands",
+        "imagen": "*",
+        "categoria": {
+            "nombre": "Heno",
+            "id": "Heno"
+        },
+        "precio": 7400
+    },
+    {
+        "id": "Heno-Nacional",
+        "titulo": "Heno Nacional",
+        "imagen": "*",
+        "categoria": {
+            "nombre": "Heno",
+            "id": "Heno"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "Heno-Cobys",
+        "titulo": "Heno Cobys",
+        "imagen": "*",
+        "categoria": {
+            "nombre": "Heno",
+            "id": "Heno"
+        },
+        "precio": 1900
+    },
+    {
+        "id": "Heno-Balance",
+        "titulo": "Heno Balance",
+        "imagen": "*",
+        "categoria": {
+            "nombre": "Heno",
+            "id": "Heno"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "Jaula-Ferplast",
+        "titulo": "Jaula Ferplast",
+        "imagen": "*",
+        "categoria": {
+            "nombre": "Jaula",
+            "id": "Jaula"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "Jaula-Favite",
+        "titulo": "Jaula Favite",
+        "imagen": "*",
+        "categoria": {
+            "nombre": "Jaula",
+            "id": "Jaula"
+        },
+        "precio": 18000
+    },
+    {
+        "id": "Jaula-120",
+        "titulo": "Jaula 120",
+        "imagen": "*",
+        "categoria": {
+            "nombre": "Jaula",
+            "id": "Jaula"
+        },
+        "precio": 45700
+    }
+    ]
